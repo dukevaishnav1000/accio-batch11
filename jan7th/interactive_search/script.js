@@ -6,3 +6,4 @@ btnxyz.addEventListener("click",function(){
     searchxyz.classList.toggle("active")
     inputxyz.focus()
 })
+console.log(searchxyz)
